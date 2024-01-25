@@ -17,3 +17,5 @@ app = FastAPI()
 async def root():
     return "Hola fastAPI"
 
+asd = "asd"
+
